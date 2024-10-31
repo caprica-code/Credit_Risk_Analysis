@@ -27,15 +27,14 @@ Este repositório contém uma análise da relação entre o tempo de emprego e a
 2. Navegue até o diretório do projeto:
    ```bash
    cd Credit_Risk_Analysis
-   
+
 3. Instale as dependências necessárias:
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. Execute os notebooks para reproduzir a análise:
-  ```bash
-  jupyter notebook
-
+   ```bash
+   jupyter notebook
 
 ## Análise Realizada
 Divisão em Quantis: A variável tempo_emprego é dividida em quatro grupos para observar a relação com a inadimplência.
@@ -47,6 +46,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## Contato
 Para dúvidas ou sugestões, entre em contato com a.capricasix@gmail.com.
+
+
+
+
 
 
    
